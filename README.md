@@ -7,6 +7,10 @@ This repository documents the server infrastructure my group member and I config
 Live Website: https://ratemyroommates.dev
 
 
+
+
+
+
 **Technologies Used:**
 
 ~ Windows 11 machine - hosting operating system
@@ -15,11 +19,20 @@ Live Website: https://ratemyroommates.dev
 ~ Cloudflare DNS - domain configuration
 ~ Node.js and npm - frontend build tools
 ~ GitHub - documentation and version control 
+
+
+
+
    
 
 **Server Architecture**
 
 Vistor -> Cloudflare -> Cloudflare Tunnel -> Apache -> React Frontend
+
+
+
+
+
 
 
 **Current Project Status**
@@ -31,6 +44,10 @@ Vistor -> Cloudflare -> Cloudflare Tunnel -> Apache -> React Frontend
 ~ HTTPS verified
 ~ Reat Router fallback configured
 ~ Firebase backend integration (in progress)
+
+
+
+
 
 
 
