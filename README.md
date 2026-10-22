@@ -22,16 +22,6 @@ Live Website: https://ratemyroommates.dev
 Vistor -> Cloudflare -> Cloudflare Tunnel -> Apache -> React Frontend
 
 
-**Documentation**
-
-Windows Deployment Guide
-
-Server Troubleshooting
-
-Competition Checklist
-
-
-
 **Current Project Status**
 
 ~ Windows Apache server configured
