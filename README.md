@@ -13,12 +13,12 @@ Live Website: https://ratemyroommates.dev
 
 **Technologies Used:**
 
-~ Windows 11 machine - hosting operating system
-~ Apache HTTP Server 2.4 - web server
-~ Cloudflare Tunnel - connection between the local server and Cloudflare
-~ Cloudflare DNS - domain configuration
-~ Node.js and npm - frontend build tools
-~ GitHub - documentation and version control 
+. Windows 11 machine - hosting operating system
+. Apache HTTP Server 2.4 - web server
+. Cloudflare Tunnel - connection between the local server and Cloudflare
+. Cloudflare DNS - domain configuration
+. Node.js and npm - frontend build tools
+. GitHub - documentation and version control 
 
 
 
